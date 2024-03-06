@@ -13,7 +13,7 @@
 
 - name: "discussion"
   description: ""
-  color: "ffed2d"
+  color: "ffed4d"
 
 - name: "do not merge"
   description: ""
